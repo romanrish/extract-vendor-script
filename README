@@ -1,0 +1,13 @@
+USE:
+MAKE SURE YOU HAVE LITHIUM MOD's VENDOR ALREADY PLACE IN ANDROID/SYSTEM/VENDOR
+
+clone this repository to your home folder then take the extract-lithium.sh and place it in your device/motorola/sholes directory.
+
+open terminal and type
+
+cd ~/(get to your device/motorola/sholes) 
+. extract-lithium.sh 
+
+done!
+
+you can also edit the directory names to work with any vendor set up. have fun!
