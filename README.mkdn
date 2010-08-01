@@ -1,0 +1,11 @@
+USE:
+============
+
+clone this repository to your home folder then take the extract-lithium.sh and place it in your vendor
+
+open terminal and type
+
+cd ~/android/system/vendor/{your vendor}
+. extract-gapps.sh 
+
+done! have fun!
